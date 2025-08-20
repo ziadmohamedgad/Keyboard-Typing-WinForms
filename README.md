@@ -46,6 +46,20 @@ Feel free to use and modify it for learning or personal use.
 
 ---
 
+## 📸 Screenshots
+
+Here’s an example of the typing screen:
+
+![Typing & Lessons Screen](Repo Images/1.png)
+![Backgrounds & Font Size Screen](Repo Images/2.png)
+![Dark Screen](Repo Images/3.png)
+
+Here’s the results panel after finishing a session:
+
+![Results Panel](Repo Images/4.png)
+
+---
+
 ## 🔮 Future Improvements
 
 Planned or possible enhancements:
