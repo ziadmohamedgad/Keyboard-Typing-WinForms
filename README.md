@@ -50,13 +50,13 @@ Feel free to use and modify it for learning or personal use.
 
 Here’s an example of the typing screen:
 
-![Typing & Lessons Screen](Repo Images/1.jpg)
-![Backgrounds & Font Size Screen](Repo Images/2.jpg)
-![Dark Screen](Repo Images/3.jpg)
+![Typing & Lessons Screen](Repo-Images/1.jpg)
+![Backgrounds & Font Size Screen](Repo-Images/2.jpg)
+![Dark Screen](Repo-Images/3.jpg)
 
 Here’s the results panel after finishing a session:
 
-![Results Panel](Repo Images/4.jpg)
+![Results Panel](Repo-Images/4.jpg)
 
 ---
 
